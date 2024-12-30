@@ -1,0 +1,32 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --primary-main: #3e5879;
+  --secondary: #213555;
+  --sub1: #78b3ce;
+  --sub2: #7e99a3;
+
+  /* Fonts */
+  --main-title-font-family: Pretendard-SemiBold, sans-serif;
+  --main-title-font-size: 36px;
+  --main-title-line-height: 40px;
+  --main-title-font-weight: 600;
+  --main-title-font-style: normal;
+  --subtitle-font-family: Pretendard-SemiBold, sans-serif;
+  --subtitle-font-size: 32px;
+  --subtitle-line-height: 40px;
+  --subtitle-font-weight: 600;
+  --subtitle-font-style: normal;
+  --body-font-family: Pretendard-Regular, sans-serif;
+  --body-font-size: 24px;
+  --body-line-height: 40px;
+  --body-font-weight: 400;
+  --body-font-style: normal;
+  --subbody-font-family: Pretendard-Light, sans-serif;
+  --subbody-font-size: 18px;
+  --subbody-line-height: 40px;
+  --subbody-font-weight: 300;
+  --subbody-font-style: normal;
+
+  /* Effects */
+}
